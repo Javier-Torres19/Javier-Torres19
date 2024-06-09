@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅Actualmente soy estudiante de Informática Aplicada en INSPT (Instituto Superior del Profesorado Técnico )👨‍💻<br>✅Estoy participando del Curso Front End Oracle ONE en Alura Latam 👨‍💻.
+✅Soy Tecnico en Informática Aplicada me forme en el Instituto Superior del Profesorado Técnico (INSPT)👨‍💻<br>✅Completé el Curso Front End Oracle ONE en Alura Latam 👨‍💻.
 
 
 ## 🌐 Socials:
